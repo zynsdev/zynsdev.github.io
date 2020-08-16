@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Mali:wght@400;500&display=swap');
 html {
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  font-family: "Work Sans", sans-serif;
+  font-family: 'Mali', cursive;
 }
 
 .container {
@@ -296,4 +297,9 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
   }
+}
+
+.lydia-dp{
+  border-radius: 5px;
+  box-shadow: 0 0 5px #aaa;
 }
